@@ -62,7 +62,6 @@ The **get_next_line** project is a critical step in understanding how **file I/O
 ## 📂 **Project Structure**  
 ```bash
 get_next_line/  
-├── Makefile             # Compilation automation  
 ├── get_next_line.h      # Header file with function prototypes  
 ├── get_next_line.c      # Main function and logic  
 └── get_next_line_utils.c # Helper functions (e.g., string manipulation)   

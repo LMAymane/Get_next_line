@@ -1,6 +1,7 @@
 # 📖 **get_next_line**  
 ### 🛠️ **Reading a Line from a File Descriptor in C**  
 
+![Result](https://i.postimg.cc/47BndpNV/Screen-Shot-2025-03-16-at-11-28-55-PM.png)
 ---
 
 ## 🎯 **Overview**  
